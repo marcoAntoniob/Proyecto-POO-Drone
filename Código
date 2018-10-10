@@ -86,7 +86,8 @@ int main() {
        }
   
  cout<<izq<<" "<<der;   
- delete [] matrix;    
+ delete [] matrix;  
+ cout<<"Doot Doot";
  return 0;
 }
 
